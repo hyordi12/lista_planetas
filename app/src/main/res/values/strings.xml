@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Planetas</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="button_back_to_login">Regresar al Login</string>
+    <string name="button_back_to_list">Regresar a la Lista</string>
+    <string name="invalid_credentials">Credenciales incorrectas</string>
+
+    <!-- Planet Names -->
+    <string-array name="planet_names">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+
+    <!-- Planet Descriptions -->
+    <string-array name="planet_descriptions">
+        <item>Mercurio es el planeta más cercano al Sol y el más pequeño del sistema solar.</item>
+        <item>Venus es el segundo planeta del sistema solar en orden de distancia desde el Sol.</item>
+        <item>La Tierra es el tercer planeta del sistema solar.</item>
+        <item>Marte es el cuarto planeta del sistema solar.</item>
+        <item>Júpiter es el quinto planeta del sistema solar.</item>
+        <item>Saturno es el sexto planeta del sistema solar.</item>
+        <item>Urano es el séptimo planeta del sistema solar.</item>
+        <item>Neptuno es el octavo planeta del sistema solar.</item>
+    </string-array>
+
+    <!-- Planet Images Main -->
+    <string-array name="planet_images_main">
+        <item>mercurio</item>
+        <item>venus</item>
+        <item>tierra</item>
+        <item>marte</item>
+        <item>jupiter</item>
+        <item>saturno</item>
+        <item>urano</item>
+        <item>neptuno</item>
+    </string-array>
+
+    <!-- Planet Images Extra 1 -->
+    <string-array name="planet_images_extra1">
+        <item>mercurio_extra1</item>
+        <item>venus_extra1</item>
+        <item>tierra_extra1</item>
+        <item>marte_extra1</item>
+        <item>jupiter_extra1</item>
+        <item>saturno_extra1</item>
+        <item>urano_extra1</item>
+        <item>neptuno_extra1</item>
+    </string-array>
+
+    <!-- Planet Images Extra 2 -->
+    <string-array name="planet_images_extra2">
+        <item>mercurio_extra2</item>
+        <item>venus_extra2</item>
+        <item>tierra_extra2</item>
+        <item>marte_extra2</item>
+        <item>jupiter_extra2</item>
+        <item>saturno_extra2</item>
+        <item>urano_extra2</item>
+        <item>neptuno_extra2</item>
+    </string-array>
+</resources>
