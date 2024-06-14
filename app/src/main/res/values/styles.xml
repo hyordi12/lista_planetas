@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Define your custom theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Letras color blanco fuerte -->
+        <item name="android:background">#4169E1</item> <!-- Fondo azul celeste -->
+        <item name="buttonStyle">@style/CustomButton</item> <!-- Aplica el estilo de botón personalizado -->
+    </style>
+
+    <!-- Define a custom button style -->
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">#FF6347</item> <!-- Color rojo bajo para los botones -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Letras de los botones color blanco -->
+    </style>
+
+</resources>

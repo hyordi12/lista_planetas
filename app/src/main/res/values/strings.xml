@@ -21,14 +21,14 @@
 
     <!-- Planet Descriptions -->
     <string-array name="planet_descriptions">
-        <item>Mercurio es el planeta más cercano al Sol y el más pequeño del sistema solar.</item>
-        <item>Venus es el segundo planeta del sistema solar en orden de distancia desde el Sol.</item>
-        <item>La Tierra es el tercer planeta del sistema solar.</item>
-        <item>Marte es el cuarto planeta del sistema solar.</item>
-        <item>Júpiter es el quinto planeta del sistema solar.</item>
-        <item>Saturno es el sexto planeta del sistema solar.</item>
-        <item>Urano es el séptimo planeta del sistema solar.</item>
-        <item>Neptuno es el octavo planeta del sistema solar.</item>
+        <item>Es el planeta más próximo al Sol. Y también es el más pequeño del Sistema Solar. Mercurio es uno de los planetas que se han clasificado como rocosos y sin satélites. Antiguamente se pensaba que Mercurio tenía un periodo de rotación de 88 días, igual que su periodo de traslación. Sin embargo se ha demostrado que su periodo de rotación es de 58,7 días, que es 2/3 de su periodo de traslación. </item>
+        <item>Venus es un planeta rocoso Y terrestre, lo que hace que muchos lo asocien con la Tierra. A pesar de no estar más Cerca del Sol que Mercurio, su presión atmosférica es mucho más superior. Además, Posee el día más largo del Sistema Solar: 243 días terrestres y gira en sentido de las Manecillas de un reloj, es decir, en sentido contrario al resto de los planetas. </item>
+        <item>Es donde vivimos. La Tierra se formó aproximadamente hace 4.567 millones de años y La vida surgió unos mil millones de años después. Su superficie está cubierta por lagos e Islas. Además, las propiedades físicas de la Tierra y geológicas han permitido que la Vida siga existiendo. La Tierra posee un único satélite natural, la Luna, que es la que Produce las mareas, estabiliza la inclinación del eje terrestre y reduce gradualmente la Rotación del planeta. </item>
+        <item>Es el cuarto planeta del Sistema Solar y el más cercano al Sol. A veces se le apoda ‘planeta rojo’ debido a la apariencia rojiza que le confiere el óxido de hierro que domina Su superficie. Tiene una atmósfera delgada formada por dióxido de carbono y los Satélites Fobos y Deimos. Marte forma parte de los planetas superiores a la Tierra, es Decir, aquellos que nunca pasan entre el Sol y la Tierra. </item>
+        <item>Es el planeta que más brilla a lo largo del año dependiendo de su fase. Es, además, Después del Sol el mayor cuerpo celeste del Sistema Solar. Tiene una masa dos veces y Media mayor que la del resto de los planetas juntos. Júpiter es un planeta gaseoso que Está solo formado por hidrógeno y helio y que carece de una superficie interior definida. </item>
+        <item>Lo que caracteriza a este planeta son sus brillantes anillos. Saturno es un planeta Visiblemente achatado en sus polos. El periodo de rotación de Saturno es incierto dado Que no posee superficie y su atmósfera gira con un periodo distinto en cada latitud. El Volumen del planeta es suficiente como para contener 740 veces la Tierra, pero su masa Solo es 95 veces la terrestre. </item>
+        <item>Urano es detectable a simple vista en el cielo nocturno. A pesar de todo, los astrónomos No lo catalogaron en la antigüedad debido a su escasez luminosa y a la lentitud de su Órbita. Urano posee la atmósfera planetaria más fría del Sistema Solar con una Temperatura de -224ºC. </item>
+        <item>Es el octavo planeta del Sistema Solar y es el primero que fue descubierto gracias a Las predicciones matemáticas. Su masa es 17 veces a la Tierra y es también ligeramente Más masivo que su planeta gemelo, Urano. Los vientos más fuertes de cualquier planeta Del Sistema Solar se encuentran en Neptuno. </item>
     </string-array>
 
     <!-- Planet Images Main -->
